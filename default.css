@@ -295,7 +295,7 @@ h6 { font-size: 16px;}
 }
 
 
-#skills{
+#team{
 	display: flex;
 	justify-content: space-evenly;
 	background-color: var(--previewShadow);
